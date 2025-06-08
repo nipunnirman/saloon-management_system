@@ -25,5 +25,4 @@ A simple desktop-based salon management application built using Python and Tkint
 
 ---
 
-##  Project Structure
 
