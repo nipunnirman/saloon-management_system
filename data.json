@@ -1,0 +1,32 @@
+{
+    "barbers": {
+        "Barber1": [
+            {
+                "amount": 1000.0,
+                "color_packets": 1,
+                "date": "2025-06-07"
+            }
+        ],
+        "Barber2": [
+            {
+                "amount": 1000.0,
+                "color_packets": 1,
+                "date": "2025-06-07"
+            }
+        ],
+        "Barber3": [
+            {
+                "amount": 1000.0,
+                "color_packets": 0,
+                "date": "2025-06-07"
+            }
+        ],
+        "Barber4": [
+            {
+                "amount": 1000.0,
+                "color_packets": 1,
+                "date": "2025-06-07"
+            }
+        ]
+    }
+}
